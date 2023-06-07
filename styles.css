@@ -61,3 +61,35 @@ h1 {
     font-weight: 900;
 }
 
+h2 {
+    font-size: 32px;
+    font-weight: 900;
+    font-weight: bold;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    gap: 20px;
+}
+
+.images {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    gap: 70px;
+}
+
+.images img {
+    border: 5px solid #3882F6;
+    border-radius: 10px;
+}
+
+.image-container {
+    text-align: center;
+    font-weight: bold;
+}
