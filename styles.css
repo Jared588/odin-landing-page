@@ -9,6 +9,15 @@ body {
     justify-content: space-between;
     align-items: center;
     background-color: #1F2937;
+    padding: 30px;
+    margin: -50px 0;
+}
+
+#logo {
+    color: #c7c7c7;
+    font-family: cursive;
+    font-size: 36px;
+    font-weight: bold;
     padding: 20px;
 }
 
