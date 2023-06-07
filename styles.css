@@ -147,3 +147,12 @@ h2 {
     padding: 10px;
     width: 150px;
 }
+
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    color: #c7c7c7;
+    margin-top: 100px;
+    justify-content: center;
+    padding: 10px;
+}
